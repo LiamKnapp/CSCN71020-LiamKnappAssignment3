@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSCN71020-LiamKnappAssignment3", "CSCN71020-LiamKnappAssignment3\CSCN71020-LiamKnappAssignment3.vcxproj", "{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Debug|x64.ActiveCfg = Debug|x64
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Debug|x64.Build.0 = Debug|x64
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Debug|x86.ActiveCfg = Debug|Win32
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Debug|x86.Build.0 = Debug|Win32
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Release|x64.ActiveCfg = Release|x64
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Release|x64.Build.0 = Release|x64
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Release|x86.ActiveCfg = Release|Win32
+		{14C5D9E8-BE00-422A-BFCF-8A67E3B0CC00}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA249FCE-847E-4DD1-AD04-9D7EC34DE3C0}
+	EndGlobalSection
+EndGlobal
